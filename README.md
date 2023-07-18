@@ -5,4 +5,6 @@ CONSECUTE is a challenge in which you have to progress on a project for the runn
 
 For approval, you must not only record the entire performance, you must also PR/make an issue with a link to both the video of said performance and the setlist/playlist you have used. It is discouraged to use shuffle mode.
 
+Official playlist #1: https://open.spotify.com/playlist/6ljAsMl46nrTQbZvK52o1v?si=6c526b951605436e
+
 ## People who have done the challenge:
